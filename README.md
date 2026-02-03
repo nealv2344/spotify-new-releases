@@ -40,6 +40,8 @@ npm install
 Start Azure Functions:
 func start
 
+Runtime state (state.json) is generated automatically and should not be committed.
+
 
 
 ## How It Works
