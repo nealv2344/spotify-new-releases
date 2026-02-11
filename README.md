@@ -9,7 +9,6 @@ The backend runs on Azure Functions, using the Spotify Web API.
 - Adds new tracks to a target Spotify playlist
 - Prevents duplicate tracks from being added
 - Serverless backend using Azure Functions
-- Optional GUI for triggering and managing updates
 
 ## Tech Stack
 - Node.js
